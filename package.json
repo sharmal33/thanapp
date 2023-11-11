@@ -31,7 +31,7 @@
     "@testing-library/jest-native": "5.4.3",
     "@testing-library/react-native": "12.2.2",
     "@types/redux-logger": "3.0.8",
-    "axios": "1.4.0",
+    "axios": "1.6.0",
     "deox": "3.2.1",
     "js-base64": "3.7.5",
     "qs": "6.11.2",
